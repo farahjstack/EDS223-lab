@@ -1,11 +1,11 @@
-# A Short but descriptive title: EDS 223 - Geospatial Analysis + Remote Sensing
+# EDS 223 - Geospatial Analysis + Remote Sensing Labs + Discussion
 
-Brief Explanation of the Repo's Purpose: This repo houses materials for in class labs, as well as in-class discussions. 
+This repo houses notes and materials from in-class discussions and labs.
 
-What's housed in the repo: What's housed in the repo: info about the repo structure or file organization
+What's Housed in the Repo: [Info about the Repo Structure of File Organization]
 
-data access: info on where the data lives
+The data is housed in the repo. As more information becomes available, this section will be updated.
 
-Author(s):
+Author: Farah Stack
 
-References/Acknolwedgemnets: 
+Acknowledgements: EDS 223 is taught by Professor Annie Adams and TA Mary Salami. All information included in this repo is from in-person class discussions and labs.
