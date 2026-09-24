@@ -8,6 +8,7 @@ This repository hosts all the work completed by Farah Stack during the discussio
 ├── discussions                              # Folder for in-class discussions
 ├──  labs                                    # Folder for in-class labs
 └── README.md                                # README provides an overview of the EDS223-lab repo
+```
 
 Course materials and data used for labs and discussions are housed within the repository.
 
