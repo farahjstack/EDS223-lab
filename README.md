@@ -3,6 +3,7 @@
 This repo houses notes and materials from in-class discussions and labs for EDS 223.
 
 ## Repo Organization
+```text
 .
 ├── discussions                              # Materials for in-class discussions 
 ├──  labs                                    # Materials for in-class labs
