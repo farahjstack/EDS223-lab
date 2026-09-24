@@ -5,9 +5,9 @@ This repo houses notes and materials from in-class discussions and labs for EDS 
 ## Repo Organization
 ```text
 .
-├── discussions                              # Materials for in-class discussions 
-├──  labs                                    # Materials for in-class labs
-└── README.md                                # README includes in-class discussion and lab
+├── discussions                              # Folder for in-class discussions
+├──  labs                                    # Folder for in-class labs
+└── README.md                                # README provides an overview of the EDS223-lab repo
 
 The data is housed in the repo. As more information becomes available, this section will be updated.
 
